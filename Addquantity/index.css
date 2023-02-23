@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#title{
+  margin-left: 170px;
+  margin-top: -100px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 35px;
+  color: darkblue;
+}
+#blue{
+  color: lightblue;
+}
+
+#image{
+  margin-left: 550px;
+}
+
+#about{
+  margin-left: 10px;
+  font-weight: 600;
+}
+.btn{
+    background-color: black; /* Green */
+    border: none;
+    color: white;
+    border-radius: 10px;
+    padding: 15px 32px;
+    margin-left: 650px;
+    margin-top: -10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .quantity{
+    margin-left: 600px;
+    align-items: center;
+    word-spacing: 5px;
+  }
+  .quantity #priv{
+    margin-left: 20px;
+    border: 5px solid goldenrod;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+  }
+  .plumi{
+    font-size: 20px;
+    border: 5px solid goldenrod;
+    color: white;
+    background-color: black;
+  }
+  .price{
+    margin-left: 650px;
+    word-spacing: 2px;
+  }
+  #quan{
+    font-size: 18px;
+  }
